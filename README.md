@@ -2,10 +2,8 @@
 
 ## 📄 About me
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/133040773)
-![AWS](https://www.credly.com/badges/887b9124-1f16-42f8-a5bb-96c191cf54b8/public_url)
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="887b9124-1f16-42f8-a5bb-96c191cf54b8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ## 🔨 Check out what I'm currently working on
 
 - [cisagov/ansible-role-admiral](https://github.com/cisagov/ansible-role-admiral) - Ansible Role to install the Admiral for Certificate Transparency scanning (1 day ago)
@@ -29,7 +27,7 @@
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) ([v10.3.2](https://github.com/projectdiscovery/nuclei-templates/releases/tag/v10.3.2), 1 week ago) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [cisagov/admiral-docker](https://github.com/cisagov/admiral-docker) ([v2.2.1](https://github.com/cisagov/admiral-docker/releases/tag/v2.2.1), 1 week ago) - Docker components for the dreaded Rear Admiral
 
-#### 🔨 My recent Pull Requests
+## 🔨 My recent Pull Requests
 
 - [Update Redis authentication](https://github.com/cisagov/admiral/pull/91) on [cisagov/admiral](https://github.com/cisagov/admiral) (4 months ago)
 - [Fix Mongo configuration error](https://github.com/cisagov/admiral/pull/90) on [cisagov/admiral](https://github.com/cisagov/admiral) (4 months ago)
