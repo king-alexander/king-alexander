@@ -9,6 +9,9 @@ jobs:
   markscribe:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
 
@@ -19,9 +22,7 @@ jobs:
           template: "README.md.tpl"
           writeTo: "README.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.UPDATE_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Update README with latest contributions
           branch: main
