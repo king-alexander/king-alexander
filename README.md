@@ -7,7 +7,7 @@
 
 ## 🔨 Check out what I'm currently working on
 
-- [king-alexander/king-alexander.github.io](https://github.com/king-alexander/king-alexander.github.io) -  (3 days ago)
+- [king-alexander/king-alexander.github.io](https://github.com/king-alexander/king-alexander.github.io) -  (1 day ago)
 - [cisagov/ansible-role-admiral](https://github.com/cisagov/ansible-role-admiral) - Ansible Role to install the Admiral for Certificate Transparency scanning (1 week ago)
 - [cisagov/admiral-docker](https://github.com/cisagov/admiral-docker) - Docker components for the dreaded Rear Admiral (2 weeks ago)
 - [king-alexander/crypto-project](https://github.com/king-alexander/crypto-project) - Cryptography project from Introduction to Information Security (1 month ago)
@@ -23,7 +23,7 @@
 
 ## 🚀 Latest releases I've contributed to
 
-- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) ([v10.3.4](https://github.com/projectdiscovery/nuclei-templates/releases/tag/v10.3.4), 3 days ago) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) ([v10.3.4](https://github.com/projectdiscovery/nuclei-templates/releases/tag/v10.3.4), 4 days ago) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [cisagov/ansible-role-admiral](https://github.com/cisagov/ansible-role-admiral) ([v1.0.0](https://github.com/cisagov/ansible-role-admiral/releases/tag/v1.0.0), 1 week ago) - Ansible Role to install the Admiral for Certificate Transparency scanning
 - [cisagov/admiral](https://github.com/cisagov/admiral) ([v3.0.0-rc.1](https://github.com/cisagov/admiral/releases/tag/v3.0.0-rc.1), 1 week ago) - Distributed certificate transparency log harvester
 - [cisagov/admiral-docker](https://github.com/cisagov/admiral-docker) ([v2.2.1](https://github.com/cisagov/admiral-docker/releases/tag/v2.2.1), 2 weeks ago) - Docker components for the dreaded Rear Admiral
