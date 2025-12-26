@@ -23,9 +23,9 @@
 
 ## 🚀 Latest releases I've contributed to
 
-- [cisagov/ansible-role-admiral](https://github.com/cisagov/ansible-role-admiral) ([v2.0.0](https://github.com/cisagov/ansible-role-admiral/releases/tag/v2.0.0), 2 days ago) - Ansible Role to install the Admiral for Certificate Transparency scanning
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) ([v10.3.6](https://github.com/projectdiscovery/nuclei-templates/releases/tag/v10.3.6), 1 day ago) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+- [cisagov/ansible-role-admiral](https://github.com/cisagov/ansible-role-admiral) ([v2.0.0](https://github.com/cisagov/ansible-role-admiral/releases/tag/v2.0.0), 3 days ago) - Ansible Role to install the Admiral for Certificate Transparency scanning
 - [cisagov/admiral-docker](https://github.com/cisagov/admiral-docker) ([v3.0.0](https://github.com/cisagov/admiral-docker/releases/tag/v3.0.0), 2 weeks ago) - Docker components for the dreaded Rear Admiral
-- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) ([v10.3.5](https://github.com/projectdiscovery/nuclei-templates/releases/tag/v10.3.5), 2 weeks ago) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [cisagov/admiral](https://github.com/cisagov/admiral) ([v3.0.0](https://github.com/cisagov/admiral/releases/tag/v3.0.0), 3 weeks ago) - Distributed certificate transparency log harvester
 
 ## 🔨 My recent Pull Requests
