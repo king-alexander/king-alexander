@@ -24,7 +24,7 @@
 ## 🚀 Latest releases I've contributed to
 
 - [cisagov/ansible-role-admiral](https://github.com/cisagov/ansible-role-admiral) ([v2.0.0](https://github.com/cisagov/ansible-role-admiral/releases/tag/v2.0.0), 1 week ago) - Ansible Role to install the Admiral for Certificate Transparency scanning
-- [cisagov/admiral-docker](https://github.com/cisagov/admiral-docker) ([v3.0.0](https://github.com/cisagov/admiral-docker/releases/tag/v3.0.0), 3 weeks ago) - Docker components for the dreaded Rear Admiral
+- [cisagov/admiral-docker](https://github.com/cisagov/admiral-docker) ([v3.0.0](https://github.com/cisagov/admiral-docker/releases/tag/v3.0.0), 4 weeks ago) - Docker components for the dreaded Rear Admiral
 - [cisagov/admiral](https://github.com/cisagov/admiral) ([v3.0.0](https://github.com/cisagov/admiral/releases/tag/v3.0.0), 1 month ago) - Distributed certificate transparency log harvester
 
 ## 🔨 My recent Pull Requests
@@ -33,4 +33,4 @@
 - [Fix Mongo configuration error](https://github.com/cisagov/admiral/pull/90) on [cisagov/admiral](https://github.com/cisagov/admiral) (5 months ago)
 - [Update YAML extensions](https://github.com/cisagov/admiral/pull/85) on [cisagov/admiral](https://github.com/cisagov/admiral) (8 months ago)
 - [Move configuration data into a configs top-level element](https://github.com/cisagov/admiral/pull/83) on [cisagov/admiral](https://github.com/cisagov/admiral) (8 months ago)
-- [Update Compose file](https://github.com/cisagov/admiral/pull/79) on [cisagov/admiral](https://github.com/cisagov/admiral) (8 months ago)
+- [Update Compose file](https://github.com/cisagov/admiral/pull/79) on [cisagov/admiral](https://github.com/cisagov/admiral) (9 months ago)
