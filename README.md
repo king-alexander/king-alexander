@@ -30,7 +30,7 @@
 ## 🔨 My recent Pull Requests
 
 - [Update Redis authentication](https://github.com/cisagov/admiral/pull/91) on [cisagov/admiral](https://github.com/cisagov/admiral) (5 months ago)
-- [Fix Mongo configuration error](https://github.com/cisagov/admiral/pull/90) on [cisagov/admiral](https://github.com/cisagov/admiral) (5 months ago)
+- [Fix Mongo configuration error](https://github.com/cisagov/admiral/pull/90) on [cisagov/admiral](https://github.com/cisagov/admiral) (6 months ago)
 - [Update YAML extensions](https://github.com/cisagov/admiral/pull/85) on [cisagov/admiral](https://github.com/cisagov/admiral) (8 months ago)
-- [Move configuration data into a configs top-level element](https://github.com/cisagov/admiral/pull/83) on [cisagov/admiral](https://github.com/cisagov/admiral) (8 months ago)
+- [Move configuration data into a configs top-level element](https://github.com/cisagov/admiral/pull/83) on [cisagov/admiral](https://github.com/cisagov/admiral) (9 months ago)
 - [Update Compose file](https://github.com/cisagov/admiral/pull/79) on [cisagov/admiral](https://github.com/cisagov/admiral) (9 months ago)
