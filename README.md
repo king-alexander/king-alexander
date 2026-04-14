@@ -10,8 +10,8 @@
 - [king-alexander/king-alexander.github.io](https://github.com/king-alexander/king-alexander.github.io) -  (4 months ago)
 - [cisagov/ansible-role-admiral](https://github.com/cisagov/ansible-role-admiral) - Ansible Role to install the Admiral for Certificate Transparency scanning (4 months ago)
 - [cisagov/admiral-docker](https://github.com/cisagov/admiral-docker) - Docker components for the dreaded Rear Admiral (5 months ago)
-- [king-alexander/crypto-project](https://github.com/king-alexander/crypto-project) - Cryptography project from Introduction to Information Security (6 months ago)
 - [king-alexander/my-pin-tool](https://github.com/king-alexander/my-pin-tool) - Dynamic binary instrumentation tool plugin for IDA Pro. (6 months ago)
+- [king-alexander/graph-plugin](https://github.com/king-alexander/graph-plugin) - IDA Pro plugin for control flow and control dependence graphs (6 months ago)
 
 ## 🧱 My latest projects
 
