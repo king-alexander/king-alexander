@@ -23,8 +23,8 @@
 
 ## 🚀 Latest releases I've contributed to
 
-- [cisagov/ansible-role-admiral](https://github.com/cisagov/ansible-role-admiral) ([v2.1.0](https://github.com/cisagov/ansible-role-admiral/releases/tag/v2.1.0), 4 days ago) - Ansible Role to install the Admiral for Certificate Transparency scanning
-- [cisagov/admiral-docker](https://github.com/cisagov/admiral-docker) ([v3.0.0](https://github.com/cisagov/admiral-docker/releases/tag/v3.0.0), 5 months ago) - Docker components for the dreaded Rear Admiral
+- [cisagov/ansible-role-admiral](https://github.com/cisagov/ansible-role-admiral) ([v2.1.0](https://github.com/cisagov/ansible-role-admiral/releases/tag/v2.1.0), 5 days ago) - Ansible Role to install the Admiral for Certificate Transparency scanning
+- [cisagov/admiral-docker](https://github.com/cisagov/admiral-docker) ([v3.0.0](https://github.com/cisagov/admiral-docker/releases/tag/v3.0.0), 6 months ago) - Docker components for the dreaded Rear Admiral
 
 ## 🔨 My recent Pull Requests
 
